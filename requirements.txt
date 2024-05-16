@@ -1,2 +1,4 @@
 opencv-python
 mediapipe
+
+# https://github.com/google-ai-edge/mediapipe/blob/master/mediapipe/python/solutions/pose.py
