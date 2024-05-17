@@ -1,4 +1,6 @@
 opencv-python
 mediapipe
+numpy
+pycaw # for volume control in windows
 
 # https://github.com/google-ai-edge/mediapipe/blob/master/mediapipe/python/solutions/pose.py
