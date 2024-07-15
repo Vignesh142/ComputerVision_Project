@@ -1,2 +1,1 @@
-![Demo Video](https://github.com/Vignesh142/ComputerVision_Project/blob/main/video1.mp4)
-
+<iframe src="https://youtu.be/27yJENldeTE" width="640" height="360" frameborder="0" allowfullscreen></iframe>
